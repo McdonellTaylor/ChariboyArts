@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CHARIBOY ARTS.props" />
+</Project>

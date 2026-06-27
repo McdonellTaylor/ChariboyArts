@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Product>
+
+@{
+    var phoneNumber = "+263788831422";
+    var message = "Hello, lets chat on Whatsapp";
+    var encodedMessage = System.Web.HttpUtility.UrlEncode(message);
+    var whatsappLink = $"https://wa.me/{phoneNumber}?text={encodedMessage}";
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+
+</head>
+
+<body style="background-image: url('@Url.Content("~/Images/Background Images/chariboy.jpg")'); background-size: cover; background-position: center;">
+    <div class="bg-image d-flex justify-content-center align-items-center">
+
+        <div class="row pb-3">
+            @foreach(var product in Model)
+            {
+        
+                <div class="col-lg-3 col-sm-6">
+           
+                    <div class="row">
+                        <div class="col-12 p-2">
+                            <div class="card border-0 p-0 bg-dark shadow border-top border-5 rounded">
+                                <img src="@product.ImageUrl" class="card-img-top rounded" style="max-width:100%; max-height: 100%" />
+                            </div>
+                            <div class="card-body pb-0 pt-2">
+                                <div>
+                                    <p class="card-title h5 text-danger text-center text-uppercase">@product.Name</p>
+                                    <p class="card-title h6 text-danger text-center">@product.Title</p>
+                                </div>
+                                 <div class="pl-6 pt-2">
+                                    <a href="@whatsappLink" style="background-color: #25D366;" class="text-white text-center btn btn-outline-secondary
+                                        btn-group-sm form-control">Chat with me on WhatsApp
+                                    </a>
+                                </div>
+                                <div class="pl-6 pt-2">
+                                    <a asp-controller="Home" asp-action="Details" asp-route-id="@product.Id" class="text-white text-center btn btn-primary btn-outline-secondary
+                                        btn-group-sm form-control">Details
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+         
+                </div>
+            }
+        </div>
+    </div>
+</body>

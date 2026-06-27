@@ -1,0 +1,75 @@
+﻿@model CHARIBOY_ARTS.Areas.Admin.Models.Videos
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+
+</head>
+
+<div>
+    <div class="row">
+        <div class="col-10">
+            <form method="post" enctype="multipart/form-data">
+                <input asp-for="@Model.Id" hidden />
+
+                <div class="border p-3 mt-4">
+                    <div>
+                        <h2>Delete Video</h2>
+                        <hr />
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label asp-for="@Model.Description"></label>
+                        <input asp-for="@Model.Description" type="text" class="form-control" disabled/>
+                       
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="@Model.Title"></label>
+                        <input asp-for="@Model.Title" type="text" class="form-control" disabled />
+                       
+                    </div>
+                    <div>
+                        <label for="videoFile">Choose Video</label>
+                        <br />
+                        <input type="file" name="videoFile" id="videoFile" required disabled/>
+                    </div>
+                    <button type="submit" class="btn btn-danger" asp-controller="Video" asp-action="DeleteVideo">Delete</button>
+                    <a asp-area="Admin" asp-controller="Video" asp-action="Videos" class="btn btn-secondary">Back</a>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+</div>
+
+
+@section Scripts {
+    <script>
+        tinymce.init({
+            selector: 'textarea',
+            plugins: [
+                // Core editing features
+                'anchor', 'autolink', 'charmap', 'codesample', 'emoticons', 'image', 'link', 'lists', 'media', 'searchreplace', 'table', 'visualblocks', 'wordcount',
+                // Your account includes a free trial of TinyMCE premium features
+                // Try the most popular premium features until Jan 16, 2025:
+                'checklist', 'mediaembed', 'casechange', 'export', 'formatpainter', 'pageembed', 'a11ychecker', 'tinymcespellchecker', 'permanentpen', 'powerpaste', 'advtable', 'advcode', 'editimage', 'advtemplate', 'ai', 'mentions', 'tinycomments', 'tableofcontents', 'footnotes', 'mergetags', 'autocorrect', 'typography', 'inlinecss', 'markdown', 'importword', 'exportword', 'exportpdf'
+            ],
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+            tinycomments_mode: 'embedded',
+            tinycomments_author: 'Author name',
+            mergetags_list: [
+                { value: 'First.Name', title: 'First Name' },
+                { value: 'Email', title: 'Email' },
+            ],
+            ai_request: (request, respondWith) => respondWith.string(() => Promise.reject('See docs to implement AI Assistant')),
+        });
+    </script>
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+
+

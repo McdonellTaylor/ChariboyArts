@@ -1,0 +1,22 @@
+﻿@model Product
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css">
+    
+</head>
+<body style="background-image: url('@Url.Content("~/Images/Background Images/bg.jpg")'); background-size: cover; background-position: center;">
+    <div class="bg-image d-flex justify-content-center align-items-center">
+        <div class="row">
+            <div class="col-6 card border-3">
+                <section class="bg-dark opacity-90 text-white">
+                   
+                    <img src="@Model.ImageUrl" />
+                    
+                    
+                </section>
+            </div>
+        </div>
+    </div>
+</body>

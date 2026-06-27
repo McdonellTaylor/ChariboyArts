@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CHARIBOY ARTS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CHARIBOY ARTS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Images\\Background Images\\bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\Background Images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Images\\Background Images\\chariboy.jpg",
+      "PackagePath": "staticwebassets\\Images\\Background Images\\chariboy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Images\\Background Images\\chariboy.webp",
+      "PackagePath": "staticwebassets\\Images\\Background Images\\chariboy.webp"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Images\\Product\\1c0b3782-c337-4257-88c2-91351af0bddc.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\1c0b3782-c337-4257-88c2-91351af0bddc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Images\\Product\\2381ca90-60ee-461f-929d-c766e2640727.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\2381ca90-60ee-461f-929d-c766e2640727.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Images\\Product\\3de6a80a-2a72-49d6-8dd0-5008f3438598.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\3de6a80a-2a72-49d6-8dd0-5008f3438598.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Images\\Product\\476e2616-a3a6-4ade-b736-1229b75becc2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\476e2616-a3a6-4ade-b736-1229b75becc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Images\\Product\\5d2c9c3c-baf6-4e44-8be9-c0a9978df8dd.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\5d2c9c3c-baf6-4e44-8be9-c0a9978df8dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Images\\Product\\d307c9da-e06b-4146-afc8-65c303e434cb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d307c9da-e06b-4146-afc8-65c303e434cb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Videos\\4473066-uhd_3840_2160_25fps.mp4",
+      "PackagePath": "staticwebassets\\Videos\\4473066-uhd_3840_2160_25fps.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Videos\\The Map of Chemistry.mp4",
+      "PackagePath": "staticwebassets\\Videos\\The Map of Chemistry.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Videos\\The Map of Engineering.mp4",
+      "PackagePath": "staticwebassets\\Videos\\The Map of Engineering.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\Videos\\vlc-record-2024-09-06-17h13m25s-Special Ops Lioness S01E04 - The Choice of Failure __ NetNaija.com-.mp4",
+      "PackagePath": "staticwebassets\\Videos\\vlc-record-2024-09-06-17h13m25s-Special Ops Lioness S01E04 - The Choice of Failure __ NetNaija.com-.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Swift\\source\\repos\\CHARIBOY ARTS\\CHARIBOY ARTS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CHARIBOY ARTS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CHARIBOY ARTS.props",
+      "PackagePath": "build\\CHARIBOY ARTS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CHARIBOY ARTS.props",
+      "PackagePath": "buildMultiTargeting\\CHARIBOY ARTS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CHARIBOY ARTS.props",
+      "PackagePath": "buildTransitive\\CHARIBOY ARTS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

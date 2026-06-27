@@ -1,0 +1,72 @@
+﻿@model CHARIBOY_ARTS.ViewModels.ProductVM
+
+<div class="p-3 border shadow">
+    <div class="card border shadow">
+        <div class="card-header bg-secondary text-white shadow">
+            <h2 class="text-center text-capitalize" style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">@Model.Product.Title</h2>
+            <h4 class="text-center">@Model.Product.Category</h4>
+        </div>
+        <div class="card-body p-3 ml-2">
+            <div class="bg-secondary align-content-center">
+                <section>
+                    <h3 class="text-white text-center">Description</h3>
+                    <hr class="bg-white" />
+                    <p class="text-white text-center" style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">@Model.Product.Description</p>
+                </section>
+            </div>
+            <div class="pt-3">
+                <form asp-action="AddComment" method="post">
+                    <div class="mb-3 form-group">
+                        <label for="commentText" class="text-center" style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">Leave a comment here</label>
+                        <textarea id="commentText" name="commentText" class="form-control"></textarea>
+                    </div>
+                    <span class="text-bg-danger text-center">You have to be logged in to leave a comment</span>
+                    <input type="hidden" name="productId" value="@Model.Product.Id" />
+                    <div class="mb-3">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <button type="submit" class="btn btn-danger" style="align-content: center">
+                                Post
+                            </button>
+                        }
+                        else
+                        {
+                            if (TempData["Error"] != null)
+                            {
+                                <div class="text-danger">@TempData["Error"]</div>
+                            }
+                        }
+                    </div>
+                </form>
+            </div>
+            <div class="mt-5">
+                <div>
+                    <h3 class="text-black text-center">Comments</h3>
+                </div>
+                <hr />
+                @if(Model.Product.Comments != null && Model.Product.Comments.Any()){
+                <ul class="list-group">
+                    @foreach (var comments in Model.Product.Comments)
+                    {
+                        <li class="list-group-item">
+                           <p style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">@comments.Text</p>
+                           <small>Posted at: @comments.CreatedAt.ToString("g")</small> <br />
+                           <small>Posted by: @Model.UserName</small>
+                        </li>
+                        //
+                           
+                    }
+                          
+                        
+                    
+                </ul>
+                  
+                }
+                else
+                {
+                    <p>No comments yet</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>

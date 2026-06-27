@@ -1,0 +1,50 @@
+﻿@model List<Product>
+
+<partial name="_Notification"/>
+
+<div class="container">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Drawings List</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-area="Admin" asp-controller="Product" asp-action="Upsert" class="btn btn-primary">
+                Create New Drawing
+            </a>
+        </div>
+    </div>
+    <table id="tblData" class="table table-bordered table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Title</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th>Description</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Title</td>
+                    <td>@product.Category</td>
+                    <td>@product.Price</td>
+                    <td>@product.Description</td>
+                    <td>
+                        <a asp-controller="Product" asp-action="Upsert" asp-route-id="@product.Id" class="btn btn-primary">Edit</a>
+                    </td>
+                    <td> <a asp-controller="Product" asp-action="Details" asp-route-id="@product.Id" class="btn btn-primary">Details</a></td>
+                    <td> <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" class="btn btn-primary">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
+
+@section Scripts{
+    <script src="~/js/Product.js"></script>
+}
